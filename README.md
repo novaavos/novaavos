@@ -36,6 +36,9 @@
    </a>   
    <a href="mailto:avosjogos@gmail.com?subject=Olá%20Gustavo!" target="_blank" rel="noopener noreferrer">
      <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+   <a href="https://discordapp.com/users/483395928938512384" target="_blank" rel="noopener noreferrer">
+     <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
    </a> 
    <img align="right" src="https://cdn.betterttv.net/emote/60d09e6a8ed8b373e42174b7/2x"/>
  </div>
