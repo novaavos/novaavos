@@ -29,8 +29,14 @@
 <br>
  <div>
    <a href="https://www.linkedin.com/in/gustavo-martins-727a1ab3/" target="_blank" rel="noopener noreferrer">
-   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-     </a>
+     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://wa.me/+5519992667795" target="_blank" rel="noopener noreferrer">
+     <img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>   
+   <a href="mailto:avosjogos@gmail.com?subject=Hello%20again" target="_blank" rel="noopener noreferrer">
+     <img align="left" src="ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a> 
    <img align="right" src="https://cdn.betterttv.net/emote/60d09e6a8ed8b373e42174b7/2x"/>
  </div>
 <br>
