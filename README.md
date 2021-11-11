@@ -34,7 +34,7 @@
    <a href="https://wa.me/+5519992667795" target="_blank" rel="noopener noreferrer">
      <img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>   
-   <a href="mailto:avosjogos@gmail.com?subject=Hello%20again" target="_blank" rel="noopener noreferrer">
+   <a href="mailto:avosjogos@gmail.com?subject=Ola%20Gustavo!" target="_blank" rel="noopener noreferrer">
      <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a> 
    <img align="right" src="https://cdn.betterttv.net/emote/60d09e6a8ed8b373e42174b7/2x"/>
