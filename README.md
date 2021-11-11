@@ -4,7 +4,7 @@
 
 
 - 🌱 Atualmente sou aluno da GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
-- 📚 Tenho interesse em programação a muito tempo, comecei aplicando meu conhecimento em jogos e atualmente estudo para me tornar um dev full-stack
+- 📚 Tenho interesse em programação a muito tempo, comecei aplicando meu conhecimento em jogos e atualmente estudo como dev full-stack
 - 😄 Pronouns: Ele/Dele
 
 <hr>
