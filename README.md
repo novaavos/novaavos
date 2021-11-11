@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente sou aluno da GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
 - 📚 Tenho interesse em programação a muito tempo, comecei aplicando meu conhecimento em jogos e atualmente estudo como dev full-stack
-- 🎒 Minha primeira formação foi em Design de jogos digitais e no momento curso Análise de sistemas! 🚀
+- 🎒 Minha primeira formação foi em Design de jogos digitais e no momento estou cursando Análise de sistemas! 🚀
 - 😄 Pronouns: Ele/Dele
 
 <hr>
