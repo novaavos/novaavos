@@ -3,27 +3,32 @@
 ### Olá 👋
 
 
-- 🌱 Atualmente sou aluno da GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
-- 📚 Tenho interesse em programação a muito tempo, comecei aplicando meu conhecimento em jogos e atualmente estudo como dev full-stack
+- 🌱 Atualmente curso na GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
+- 📚 Sou uma pessoa que gosta de aprender e me aprofundar em tecnologia e criatividade.<br>
+     Cresci com instrumentos musicais e jogos e quis saber como essas coisas funcionavam, então decidi aprender, criei interesse por programação no ensino médio e desde lá explorei diversas linguagens. Hoje tenho o foco de ser um desenvolvedor Full-Stack Java, Spring, SQL e Angular.
 - 🎒 Minha primeira formação foi em Design de jogos digitais e no momento estou cursando Análise de sistemas! 🚀
 - 😄 Pronouns: Ele/Dele
-
+<br>
+Por perder a vontade de parar de aprender, eu também tenho projetos em JS, React.js, Node.js, Unity entre outros aqui no GitHub, então da uma olhada nos meus repositórios.
 <hr>
      &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+ <h4 align="center">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> + 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> +
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> +
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> +
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> +
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> +
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> +
+  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
+<h4/> 
+     
   </hr>
     <p align="center">
     <a href="https://github.com/novaavos">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=novaavos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&text_color=f0f2f5"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaavos&layout=compact&langs_count=16&theme=material-palenight&text_color=f0f2f5"/>
     </a></p>
-<h4 align="center">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> - 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> - 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> - 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> - 
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> -
-  <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> 
-<h4/>
   <hr>
      &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
   </hr>
