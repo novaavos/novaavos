@@ -9,7 +9,7 @@
 - 🎒 Minha primeira formação foi em Design de jogos digitais e no momento estou cursando Análise de sistemas! 🚀
 - 😄 Pronouns: Ele/Dele
 <br>
-Por perder a vontade de parar de aprender, eu também tenho projetos em JS, React.js, Node.js, Unity entre outros aqui no GitHub, então da uma olhada nos meus repositórios.
+Por nunca perder a vontade de parar de aprender, eu também tenho projetos em JS, React.js, Node.js, Unity entre outros aqui no GitHub, então da uma olhada nos meus repositórios.
 <hr>
      &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
  <h4 align="center">
