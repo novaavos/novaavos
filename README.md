@@ -3,14 +3,20 @@
 ### Olá 👋
 
 
-- 🌱 Atualmente curso na GenerationBrasil @https://www.linkedin.com/school/generationbrasil/
-- 📚 Sou uma pessoa que gosta de aprender e me aprofundar em tecnologia e criatividade.<br>
-     Cresci com instrumentos musicais e jogos e quis saber como essas coisas funcionavam, então decidi aprender, criei interesse por programação no ensino médio e desde lá explorei diversas linguagens. Hoje tenho o foco de ser um desenvolvedor Full-Stack Java, Spring, SQL e Angular.
-- 🎒 Minha primeira formação foi em Design de jogos digitais e no momento estou cursando Análise de sistemas! 🚀
-- 😄 Pronouns: Ele/Dele
-<br>
-Por nunca perder a vontade de parar de aprender, eu também tenho projetos em JS, React.js, Node.js, Unity entre outros aqui no GitHub, então da uma olhada nos meus repositórios.
-<hr>
+💻 Backend Java Developer | 4 years experience
+
+I specialize in designing and developing scalable backend solutions with Java and Spring Boot, delivering systems that are reliable, high-performing, and ready to grow with business needs.
+
+Alongside Java, I bring hands-on experience with RabbitMQ, Kubernetes, MongoDB, Docker, and Microsoft Azure Pipelines, working across modern architectures and cloud environments.
+
+What sets me apart is my drive to continuously learn and adapt, combined with a strong focus on collaboration and problem-solving. I thrive in teams that value innovation, efficiency, and knowledge-sharing.
+
+✨ Core Competencies
+Java Specialist · Spring Boot · RabbitMQ · Kubernetes · MongoDB · Docker · Azure Pipelines · SQL · Backend Development
+
+I’m always excited to take on new challenges, contribute to impactful projects, and grow my career in dynamic and international environments.
+
+
      &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
  <h4 align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> + 
