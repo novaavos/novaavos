@@ -16,8 +16,6 @@ Java Specialist · Spring Boot · RabbitMQ · Kubernetes · MongoDB · Docker ·
 
 I’m always excited to take on new challenges, contribute to impactful projects, and grow my career in dynamic and international environments.
 
-
-     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
  <h4 align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> + 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> +
